@@ -1,6 +1,6 @@
 "# henry.xh2-gmail.com" 
 
-Check my blog for steps: http://jarmx.blogspot.com/
+Check my blog for steps: https://jarmx.blogspot.com/2020/03/kotlin-oauth2-springboot2-jpa.html
 
 Create table on MySql:
 
